@@ -12,7 +12,7 @@ A simple, efficient, and user-friendly To-Do List web application designed to he
 - Clean and intuitive user interface
 
 ## 🚀 Live Demo
-[View Live Application](https://my-to-do-list-qznqxahly-jaykumardohare-projects.vercel.app/)
+[View Live Application](https://my-to-do-list-hazel.vercel.app/)
 
 ## 🛠️ Technologies Used
 - HTML5
